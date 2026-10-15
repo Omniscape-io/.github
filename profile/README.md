@@ -77,7 +77,7 @@ Start on the free plan with no card, and upgrade when you need more volume or ci
 
 ## For developers
 
-The **Renders API** turns a photo you already hold plus a line of text into a finished Pic to Video Render. See the [API reference](https://omniscape.io/docs/api) and the runnable [examples in JavaScript, Python and curl](https://github.com/Omniscape-io/renders-api-examples). API keys are issued on request at info@omniscape.io.
+The **Renders API** turns a photo you already hold plus a line of text into a finished Pic to Video Render. See the [API reference](https://omniscape.io/docs/api) and the runnable [examples in JavaScript, Python and curl](https://github.com/Omniscape-io/omniscape-video-api-examples). API keys are issued on request at info@omniscape.io.
 
 ---
 
